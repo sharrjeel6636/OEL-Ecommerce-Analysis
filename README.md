@@ -19,16 +19,9 @@ Comprehensive Exploratory Data Analysis on Online Retail dataset with Customer S
 - `OEL_Proposal_ECommerce_Report.docx` → Project Proposal
 - `data.csv` → Original dataset
 
-## 🖼️ Screenshots / Key Visualizations
-*(Add some screenshots of your plots here)*
-
 ## 📈 Business Insights
 - UK dominates revenue
 - November is the strongest month
 - etc.
 
-## 👥 Team Members
-- Umar Muneer (75600)
-- Hafiz Sharjeel Ali (75601)
-- Muhammad Ali Raza (62696)
-- Haider Hassan (68119)
+
